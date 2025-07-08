@@ -46,5 +46,6 @@ CSV File: Stores user-item ratings like:
 userID,itemID,rating
 
 Output:
+![Image](https://github.com/user-attachments/assets/25217b7b-0a58-4abd-81f9-63f63b07a1b7)
 
 
